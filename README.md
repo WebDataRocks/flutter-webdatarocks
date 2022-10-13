@@ -1,5 +1,4 @@
 # Flutter module for WebDataRocks Pivot Table & Charts 
-[![WebDataRocks Pivot Table & Charts](https://cdn.webdatarocks.com/landing.png)](https://webdatarocks.com)
 Website: www.webdatarocks.com
 
 ## WebDataRocks Pivot Table & Charts
