@@ -1,24 +1,15 @@
-# Flutter module for WebDataRocks Pivot Table & Charts 
-Website: www.webdatarocks.com
+# Flutter wrapper for WebDataRocks
 
-## WebDataRocks Pivot Table & Charts
+This repository contains the source code of the Flutter wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Flutter](https://github.com/flutter/flutter/) applications. 
 
-WebDataRocks Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. WebDataRocks is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
+## Usage
 
-This repository holds the source code for using [WebDataRocks Pivot](https://www.webdatarocks.com/) in [Flutter](https://github.com/flutter/flutter/) applications. 
+Refer to the WebDataRocks documentation for details on using the WebDataRocks Flutter wrapper: [Integration with Flutter](https://www.webdatarocks.com/doc/integration-with-flutter/).
 
-* [Usage](#usage)
-* [Sample project](#sample-project)
-* [Licence](#license)
+## Sample project
 
-## <a name="usage"></a>Usage ##
+Try our [sample WebDataRocks Flutter project](https://github.com/webdatarocks/pivot-flutter) to see an integration example.
 
-For details on the module usage, refer to the [WebDataRocks integration with Flutter](https://www.webdatarocks.com/doc/integration-with-flutter/) tutorial.
+## Support
 
-## <a name="sample-project"></a>Sample project ##
-
-See our sample [Flutter project using the WebDataRocks Flutter module](https://github.com/webdatarocks/pivot-flutter).
-
-## <a name="licence"></a>License ##
-
-WebDataRocks Flutter module is released as a MIT-licensed (free and open-source) add-on to WebDataRocks Pivot.
+Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
