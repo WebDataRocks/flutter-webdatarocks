@@ -1,6 +1,6 @@
 # Flutter wrapper for WebDataRocks
 
-This repository contains the source code of the Flutter wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Flutter](https://github.com/flutter/flutter/) applications. 
+This repository contains the source code of the Flutter wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Flutter](https://flutter.dev/) applications. 
 
 ## Usage
 
