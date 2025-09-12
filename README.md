@@ -1,5 +1,9 @@
 # Flutter wrapper for WebDataRocks
 [![WebDataRocks](https://cdn.webdatarocks.com/readmes/flutter.png)](https://www.webdatarocks.com/?r=wrap_flutter)
+Website: [webdatarocks.com](https://www.webdatarocks.com?r=wrap_flutter)
+
+[![Pub.dev](https://img.shields.io/pub/v/flutter_webdatarocks)](https://pub.dev/packages/flutter_webdatarocks)
+[![Github Stars](https://img.shields.io/github/stars/webdatarocks?style=social)](https://github.com/webdatarocks) [![Twitter](https://img.shields.io/twitter/follow/WebDataRocks?style=social)](https://twitter.com/WebDataRocks)
 
 This repository contains the source code of the Flutter wrapper for [WebDataRocks](https://www.webdatarocks.com/?r=wrap_flutter). Use the wrapper to integrate WebDataRocks into [Flutter](https://flutter.dev/) applications. 
 
